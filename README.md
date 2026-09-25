@@ -1,5 +1,3 @@
-# PrepTrack 🎯
-
 A local-first, personal placement preparation tracker. No backend. No login. Your data lives in your browser.
 
 ## Features
